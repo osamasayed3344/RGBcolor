@@ -1,0 +1,23 @@
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+}
+header{
+	padding:30px;
+}
+h1{
+	text-align:center;
+}
+main{
+	padding:30px;
+	display:flex;
+}
+#background{
+	width:400px;
+	height:400px;
+	margin-right:50px;
+}
+#change_color div{
+	margin:30px;
+}
